@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>中文测试</title>
+    <link href="/2020/07/17/test-math/"/>
+    <url>/2020/07/17/test-math/</url>
+    
+    <content type="html"><![CDATA[<script type="math/tex; mode=display">a+b=c</script><blockquote><p>滚滚长江东逝水，浪花淘尽英雄。</p></blockquote><p><strong>这也是</strong>神奇的<em>一天</em>呢。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>文章测试</title>
+    <link href="/2020/07/09/test-article/"/>
+    <url>/2020/07/09/test-article/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Get-start"><a href="#Get-start" class="headerlink" title="Get start!!!"></a>Get start!!!</h1><p>为什么不显示呢？<br>真奇怪。</p><p>Balalalallalalalalalala.</p><h1 id="First"><a href="#First" class="headerlink" title="First"></a>First</h1><p>This is a <strong>serious</strong> problem.</p><blockquote><p>Hand in hand.</p></blockquote><ul><li>Mango</li><li>Water</li><li><em>Banana</em></li></ul><h1 id="Start-again"><a href="#Start-again" class="headerlink" title="Start again"></a>Start again</h1><h2 id="Warm-up"><a href="#Warm-up" class="headerlink" title="Warm up"></a>Warm up</h2><p>$\mathop{x} \limits_a^b$</p><script type="math/tex; mode=display">\int_{i=1}^n x^2 \text{d}x</script><script type="math/tex; mode=display">\int_{i=1}^n x^2 \text{d}x</script><script type="math/tex; mode=display">\begin{equation}\int_{i=1}^n x^2 \text{d}x\end{equation}</script><script type="math/tex; mode=display">e_r(x)=\frac{x-x}{x^{*}}</script><script type="math/tex; mode=display">\min_{\mathbf{w},b} \frac{1}{2} \Vert \mathbf{w} \Vert^2 \quad s.t. \quad y_i(\mathbf{w}^T\phi(\mathbf{x})+b) \geq 1, \quad  i=1,2,...,m\qquad(9)</script><script type="math/tex; mode=display">\underset{a}{\text{arg max}}</script><script type="math/tex; mode=display">e\left ( x^{*} \right ) = x - x^{*}x = a_0 + \frac{1}{a_1 +\sqrt{a^2+b^2} \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}\sqrt{a^2+b^2}</script><script type="math/tex; mode=display">f_n=f_{n-1}+f_{n-2}</script><script type="math/tex; mode=display">f_n</script><script type="math/tex; mode=display">f_1</script><script type="math/tex; mode=display">f^n</script><script type="math/tex; mode=display">f^1</script><script type="math/tex; mode=display">f</script><p>Then,</p><script type="math/tex; mode=display">\begin{aligned}a + b &= c\\\mathbf{x} &\sim \mathcal{N}(0, 1)\end{aligned}</script><script type="math/tex; mode=display">a + b = c</script><p>$a + b = c$</p><p>This equation <script type="math/tex">\cos 2\theta = \cos^2 \theta - \sin^2 \theta =  2 \cos^2 \theta - 1</script> is inline.</p><script type="math/tex; mode=display">\begin{aligned}\dot{x} & = \sigma(y-x) \\\dot{y} & = \rho x - y - xz \\\dot{z} & = -\beta z + xy\end{aligned}</script><script type="math/tex; mode=display">\begin{aligned}\dot{x} & = \sigma(y-x) \\\dot{y} & = \rho x - y - xz \\\dot{z} & = -\beta z + xy\end{aligned}</script><h2 id="Keyboard"><a href="#Keyboard" class="headerlink" title="Keyboard"></a>Keyboard</h2><pre><code class="hljs python"><span class="hljs-keyword">import</span> python <span class="hljs-keyword">as</span> pd<span class="hljs-keyword">import</span> numpy <span class="hljs-keyword">as</span> npdf = pd.DataFrame(np.random.randint(<span class="hljs-number">0</span>, <span class="hljs-number">100</span>, (<span class="hljs-number">50</span>, <span class="hljs-number">3</span>)))print(df)</code></pre>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2020/07/09/hello-world/"/>
+    <url>/2020/07/09/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
